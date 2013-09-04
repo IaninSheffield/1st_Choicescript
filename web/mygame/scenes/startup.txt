@@ -18,11 +18,7 @@
 *title My First ChoiceScript Game
 *scene_list
   startup
-  animal
-  variables
-  gosub
-  ending
-  death
+
 
 *create leadership 50
 *create strength 50
